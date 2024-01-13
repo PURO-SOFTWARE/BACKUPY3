@@ -1,0 +1,83 @@
+
+**INSTALACIÓN Y EJECUCIÓN**
+**************************************************************************
+
+1- Copie esta carpeta donde quiera en su equipo
+   preferentemente en C:\Program Files O C:\Archivos de programas
+
+2- Cree en el escritorio un acceso directo al ejecutable.
+
+3- Luego apriete tecla WINDOWS + R
+   para abrir la ventana Ejecutar
+   (en caso de no tener tecla Windows en el teclado puede escribir 
+   ejecutar en la búsqueda de la barra de tareas, y luego en el 
+   menú desplegable cliquear sobre la aplicación) 
+
+4- Escriba shell:startup	
+   se abrirá la ventana
+ 
+5- Una vez abierta tendrá que arrastrar hacia ella el acceso directo que creó anteriormente en el escritorio.
+
+6- Cierre la ventana y reinicie el equipo.
+
+****************************************************************************
+**USO DEL PROGRAMA: ATENCIÓN, EL MAL USO DEL PROGRAMA PUEDE CAUSAR DAÑOS
+IRREPARABLES AL SISTEMA O BORRAR INFORMACIÓN IMPORTANTE.**
+
+1 - El programa se iniciará automáticamente con Windows y aparecerá minimizado
+    en la barra de Windows, haga clic en él para que aparezca en pantalla.
+2 - Cada botón cuenta con un sistema de contraseña, la cual es la misma para todos,
+    para que ninguna persona ajena al servicio técnico modifique los parámetros
+    con posible pérdida de datos.
+3-  La contraseña predefinida es "123".
+
+**SOBRE LAS TECLAS Y EL USO ----**
+4-  Se define como "Origen" a la carpeta que desea ser copiada.
+5- Se define "Destino" a la carpeta en la que se copiarán los archivos.
+    MUY IMPORTANTE: (la carpeta de destino debe ser creada previamente)
+    para esto puede oprimir el botón Destino, se abrirá un explorador aquí mismo
+    puede crear la carpeta y luego seleccionarla y apretar el botón "Seleccionar Carpeta".
+
+3- Para cambiar la contraseña ingrese la contraseña actual, luego el sistema le pedirá
+   la nueva contraseña y la confirmación.
+4- El sistema abrirá una ventana negra con letras blancas al iniciar el copiado. No interfiera 
+   con este proceso ni cierre la ventana.
+5- El sistema hará la copia de seguridad todos los días a la misma hora, que usted programó.
+   el ingreso de la hora debe tener dos dígitos para la hora siendo de 1 a 24, 
+   y la hora de 0 a 59, los cuales deben estar separados por ":".
+
+********************************************************************************
+**MODO EN EL QUE LOS ARCHIVOS SE COPIAN: IMPORTANTE**
+
+1 - ATENCIÓN: cada vez que los archivos se copien reemplazarán a los de la copia anterior
+    o sea que se sobrescriben, cuando un archivo se borre en el origen este archivo 
+    ya no será copiado a la carpeta destino, pero si usted ha hecho anteriormente una copia del
+    mismo esta se conservará dentro de la carpeta en la que se copio, esto provoca un efecto
+    acumulativo de archivos con el fin de proteger el trabajo en caso de borrado accidental,
+    pero que en caso de querer restaurar los archivos de la carpeta origen también verá 
+    estos archivos en desuso, los cuales luego de recuperar la información deberá limpiar manualmente. 
+2 - La limpieza de datos se puede hacer de una forma sencilla ordenado por fecha los archivos
+    para hacer más rápida la selección de los mismos.
+3-  Una forma de hacer una acumulación ordenada de archivos es cambiar el nombre de las  
+    carpetas o archivos, demos un ejemplo: usted tiene una carpeta en el escritorio llamada 
+    "Carpeta Pagos 1" el cual el sistema de backup ya ha guardado ayer, el día de hoy usted ha hecho 
+    cambios muy importantes en esta carpeta por lo que a usted le gustaría conservar los datos
+    antiguos, pero también la carpeta actual. En ese caso usted debería renombrar 
+    la carpeta "Carpeta Pagos 1" como "Carpeta Pagos 2", cuando el programa haga el backup la 
+    carpeta con el nuevo nombre será copiada sin modificar ni sobrescribir
+    la carpeta "Carpeta Pagos 1" que fue copiada en el backup anterior. Con esto usted podrá 
+    hacer backups integrales y parciales.
+
+
+
+
+
+
+
+
+
+
+
+
+
+

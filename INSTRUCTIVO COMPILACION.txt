@@ -1,0 +1,5 @@
+Ejecutar este codigo en el cmd en la carpeta donde esta el codigo a compilar
+renombrar el archivo .py a .pyw para que no se vea la consola
+
+
+pyinstaller --onefile --icon=icono.ico --hidden-import=apscheduler.triggers tu_script.pyw
